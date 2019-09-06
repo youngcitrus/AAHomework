@@ -18,5 +18,4 @@ class Stack
       # returns, but doesn't remove, the top element in the stack
       @stack.last
     end
-  
 end
